@@ -16,7 +16,8 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
+<img src='https://github.com/mohinii96/Car_Rental_Website/blob/repo/public/Screenshot%202025-03-22%20180114.png'/>
 <img src='https://github.com/user-attachments/assets/e6c8f663-9003-497d-b9fb-fdab2bb78afb.png'/>
+https://github.com/mohinii96/Car_Rental_Website/blob/repo/public/Screenshot%202025-03-22%20180114.png
 
 </div>
