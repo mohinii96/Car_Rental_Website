@@ -17,7 +17,4 @@
 
 <div align='center'>
 <img src='https://github.com/mohinii96/Car_Rental_Website/blob/repo/public/Screenshot%202025-03-22%20180114.png'/>
-<!-- <img src='https://github.com/user-attachments/assets/e6c8f663-9003-497d-b9fb-fdab2bb78afb.png'/>
-https://github.com/mohinii96/Car_Rental_Website/blob/repo/public/Screenshot%202025-03-22%20180114.png -->
-
 </div>
